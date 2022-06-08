@@ -1,4 +1,4 @@
 - 👋 Oi, sou Bruna Romano
 - 👀 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo C# e JavaScript
+- 🌱 Aprendendo C# 
 - 📫 Pode me achar em https://www.linkedin.com/in/bruna-romano 
